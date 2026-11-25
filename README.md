@@ -14,6 +14,8 @@ The objective was to transform raw survey responses into a structured dataset an
 Using Microsoft Excel, Power Query and PivotTables, I performed data preparation, handled missing values, created calculated columns, summarised feedback and developed visualisations to support evidence-based decision-making.
 
 The project demonstrates an end-to-end data analytics workflow, from raw data preparation to insights and stakeholder recommendations.
+<img width="878" height="586" alt="image" src="https://github.com/user-attachments/assets/3a86fda6-c87a-4c40-a307-347de0a243d5" />
+
 
 ## 2. Business Problem
 
