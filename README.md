@@ -226,11 +226,13 @@ The dashboard includes:
 
 ### Visualisation 1: Average Experience Rating by Event Track
 
-![Average Experience Rating by Event Track](average_rating_by_track.png)
+<img width="412" height="230" alt="average_rating_by_track" src="https://github.com/user-attachments/assets/d0a9b241-a989-4a65-acff-4bf4f221107f" />
+
 
 ### Visualisation 2: Feedback Entries by City and Session Type
 
-![Feedback Entries by City and Session Type](feedback_by_city_and_session.png)
+<img width="416" height="262" alt="feedback_by_city_and_session" src="https://github.com/user-attachments/assets/e7ca7b9f-9e37-4eee-94f8-2075aae41a76" />
+
 
 The visualisations help stakeholders compare event track performance and understand feedback distribution across cities and session formats.
 
